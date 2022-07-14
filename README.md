@@ -1,1 +1,1 @@
-# EMC_SKlab_scRNA
+Single-cell RNA sequencing devlopment pipeline in R at EMC Kushner lab.
